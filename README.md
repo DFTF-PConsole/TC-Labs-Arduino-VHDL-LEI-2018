@@ -9,5 +9,8 @@ TC - Tecnologia dos Computadores
 Labs: Arduino e VHDL
 
 
+Autor: Dário Félix / DFTF@PConsole# (DFTF-PConsole)
+
+
 Nota:
 *Falta Codigo*
