@@ -1,4 +1,7 @@
-# TC-Labs-Arduino-VHDL-LEI-2018
-FCTUC - DEI/LEI - TC - 2018/2019 - Labs (PUB) - Licenciatura em Engenharia Informatica - Tecnologia dos Computadores
+# TC Labs Arduino VHDL LEI 2018
+PUBLIC
+FCTUC DEI/LEI 2018/2019 - Licenciatura em Engenharia Informatica
+TC - Tecnologia dos Computadores
+Labs: Arduino e VHDL
 
 *Falta Codigo*
